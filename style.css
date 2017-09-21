@@ -1,5 +1,9 @@
-.caption {
-    background-color: rgba(0, 0, 0) !important;
+.bg-dark-transparent {
+    background-color: rgb(0, 0, 0, 0.7) !important;
+}
+
+.bg-light-transparent {
+    background-color: rgb(255, 255, 255, 0.7) !important;
 }
 
 w-calc {
